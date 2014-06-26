@@ -8,7 +8,7 @@
         android:minSdkVersion="8"
         android:targetSdkVersion="19" />
 
-    <!-- Random Comment 4 hotfix-->
+    <!-- Random Comment 5 -->
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
